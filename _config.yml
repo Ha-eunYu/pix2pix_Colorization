@@ -7,8 +7,7 @@ url: https://Ha-eunYu.github.io/pix2pix_Colorization
 
 # Aux links for the upper right navigation
 aux_links:
-  "pix2pix Colorization on GitHub":
-    - "//github.com/Ha-eunYu/pix2pix_Colorization"
+  Ha-eunYu: https://github.com/Ha-eunYu/pix2pix_Colorization
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
