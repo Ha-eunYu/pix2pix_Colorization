@@ -1,7 +1,11 @@
 ---
+layout: default
 title: Home
-layout: home
+nav_order: 1
+description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
+permalink: /
 ---
+
 
 ### MLP, CNN, RNN의 Inductive bias
 네트워크가 어떤 것에 특화되어 있는가
