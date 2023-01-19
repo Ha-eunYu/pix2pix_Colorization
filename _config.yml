@@ -4,5 +4,13 @@ theme: just-the-docs
 
 url: https://Ha-eunYu.github.io/pix2pix_Colorization
 
+# aux_links:
+#   Template Repository: https://github.com/Ha-eunYu/pix2pix Colorization
+
+# Aux links for the upper right navigation
 aux_links:
-  Template Repository: https://github.com/Ha-eunYu/pix2pix Colorization
+  "pix2pix Colorization on GitHub":
+    - "//github.com/Ha-eunYu/pix2pix_Colorization"
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: true
