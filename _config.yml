@@ -5,7 +5,7 @@ theme: just-the-docs
 url: https://Ha-eunYu.github.io/Colorization
 
 aux_links:
-  Ha-eunYu: https://github.com/Ha-eunYu/pix2pix Colorization
+  Ha-eunYu: https://github.com/Ha-eunYu/Colorization
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
