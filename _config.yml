@@ -3,11 +3,12 @@ description: A starter template for a Jekyll site using the Just the Docs theme!
 theme: just-the-docs
 
 url: "https://ha-eunyu.github.io"
-# baseurl: "/pix2pix_Colorization"
-baseurl: "/Colorization"
+baseurl: "/pix2pix_Colorization"
+# baseurl: "/Colorization"
 
 aux_links:
-  Ha-eunYu: https://github.com/Ha-eunYu/Colorization
+  Ha-eunYu: https://github.com/Ha-eunYu/pix2pix_Colorization
+  # Ha-eunYu: https://github.com/Ha-eunYu/Colorization
 
 # plugins:
 #   - jekyll-default-layout
