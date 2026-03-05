@@ -9,5 +9,8 @@ baseurl: "/pix2pix_Colorization"
 aux_links:
   Ha-eunYu: https://github.com/Ha-eunYu/Colorization
 
+plugins:
+  - jekyll-default-layout
+  
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
