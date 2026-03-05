@@ -7,7 +7,7 @@ baseurl: "/pix2pix_Colorization"
 # baseurl: "/Colorization"
 
 aux_links:
-  Ha-eunYu: https://github.com/Ha-eunYu/pix2pix_Colorization
+  Ha-eunYu: https://github.com/Ha-eunYu/pix2pix_Colorization.git
   # Ha-eunYu: https://github.com/Ha-eunYu/Colorization
 
 # plugins:
