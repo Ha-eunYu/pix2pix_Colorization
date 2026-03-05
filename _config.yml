@@ -2,15 +2,15 @@ title: pix2pix Colorization
 description: A starter template for a Jekyll site using the Just the Docs theme!
 theme: just-the-docs
 
-url: "https://ha-eunyu.github.io"
-baseurl: "/pix2pix_Colorization"
+url: "https://ha-eunyu.github.io/pix2pix_Colorization"
+# baseurl: "/pix2pix_Colorization"
 # baseurl: "/Colorization"
 
 aux_links:
-  Ha-eunYu: https://github.com/Ha-eunYu/Colorization
+  Ha-eunYu: https://github.com/Ha-eunYu/pix2pix_Colorization
 
-plugins:
-  - jekyll-default-layout
-  
+# plugins:
+#   - jekyll-default-layout
+
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
